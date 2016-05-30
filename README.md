@@ -1,4 +1,3 @@
-# Fitness-App
 Fitness App Proposal
 ====================
 
